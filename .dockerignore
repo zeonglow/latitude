@@ -1,0 +1,4 @@
+# Only send py and json files to Docker
+*
+!*.py
+!*.json
